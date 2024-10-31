@@ -1,2 +1,1 @@
-test text
-changes clone
+test text. Add some changes in newBranch.
